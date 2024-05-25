@@ -1,3 +1,6 @@
+#jancky 20240525
+install version need gradle is gradle-6.7 and jdk is 11 / 16 not ok , 8 not ok
+
 # Classpy
 
 Classpy is a GUI tool for investigating Java class file, Lua binary chunk, Wasm binary code, and other binary file formats.
